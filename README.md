@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/mderek227/SENDIT-API.svg?branch=api)](https://travis-ci.com/mderek227/SENDIT-API)
-[![Coverage Status](https://coveralls.io/repos/github/mderek227/SENDIT-API/badge.svg)](https://coveralls.io/github/mderek227/SENDIT-API)
+[![Coverage Status](https://coveralls.io/repos/github/mderek227/SENDIT-API/badge.svg?branch=develop)](https://coveralls.io/github/mderek227/SENDIT-API?branch=develop)
 [![Maintainability](https://api.codeclimate.com/v1/badges/c352b1b61ea4b3b4a0ba/maintainability)](https://codeclimate.com/github/mderek227/SENDIT-API/maintainability)
 # SendIT API
 SendIT courier enables user to deliver parcels to different places. SendIT charges subscribers according to the weight category of the parcel
