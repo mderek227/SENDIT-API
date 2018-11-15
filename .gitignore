@@ -3,3 +3,4 @@ sendit/
 __pycache__/
 *__init__.pyc*
 .idea/
+.pytest_cache/
