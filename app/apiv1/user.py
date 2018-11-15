@@ -1,7 +1,7 @@
 """CONTAINS API ENDPOINTS"""
 from flask import jsonify, request
 from app.apiv1 import AppBp
-from .model import add_parcel, Parcels
+from .modals import add_parcel, Parcels
 from .errors import bad_request
 
 @AppBp.route('/parcels', methods=['POST'])
