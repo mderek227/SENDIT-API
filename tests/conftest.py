@@ -21,7 +21,7 @@ MISSING_KEYS = {
 EMPTY_FIELDS = {"pick_up":"",                
                 "destination":"Bukoto",
                 "parcel_name":"Television",
-                "description":"15000",                
+                "price":"15000",                
                 "user_id": "derek"
                }
 
