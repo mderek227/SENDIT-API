@@ -3,17 +3,10 @@ python:
   - "3.6"
 branches:
   only:
-  - develop
+  - dev
 install:
   - pip install -r requirements.txt
 script:
   -- pytest --cov=.
-  - coverage
   - coverage report
   - coveralls
-  
-after success:
-  -coveralls
-deploy:
-  provider: heroku
-  api_key: ...
